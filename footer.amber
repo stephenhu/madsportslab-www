@@ -1,0 +1,29 @@
+footer.mdc-layout-grid
+  div.mdc-layout-grid__inner
+    div.mdc-layout-grid__cell--span-6
+      div.mdc-typography--title Company
+      a[href="/privacy"] Privacy
+      br
+      a[href="/terms"] Terms
+      br
+      a[href="/blog"] Blog
+      br
+      a[href="/contact"] Contact
+      br
+      a[href="/about"] About
+    div.mdc-layout-grid__cell--span-6
+      div.mdc-typography--title Technology
+      a[href="/"] Products
+      br
+      a[href="/developers"] Developers
+      br
+      a[href="/documentation"] Documentation
+      br
+      a[href="/faq"] FAQ
+      br
+      a[href="/api"] API
+  div.mdc-layout-grid__inner
+    div.mdc-layout-grid__cell--span-12
+      br
+      br
+      div.mdc-typography--caption madsportslab. All rights reserved.  Copyright &copy; 2020

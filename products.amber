@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  import indexbar
+  main.mdl-layout__content
+    h2 Products
+    div.mdl-card.mdl-shadow--2dp
+      div.mdl-card_title.mdl-card--expand
+        img[src="http://is3.mzstatic.com/image/thumb/Purple118/v4/3b/3c/c8/3b3cc809-64f1-d3ad-f4b0-faea54387442/source/175x175bb.jpg"]
+      div.mdl-card__supporting-text Digital scoreboard
+      div.mdl-card__actions.mdl-card--border
+        a[href="https://itunes.apple.com/us/app/mboard/id1217078560?mt=8"] Download from the Apple App Store
+  div.empty-space
+  import footer

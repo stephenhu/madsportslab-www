@@ -1,0 +1,62 @@
+extends layout
+
+block content
+  import indexbar
+  center
+    br
+    br
+    br
+    h1.mdc-typography--display4 mboard
+      small.light-blue scoreboard
+    a.mdc-button.mdc-button--raised[href="mailto:stephen@madsportslab.com"] Purchase
+    br
+    br
+    br
+    img[src="/images/tv.black.644x371.png"]
+    br
+    br
+    br
+    br
+    h1.mdc-typography--display1 mboard is a small device that connects to any HDMI display to provide scoreboard functionality for sports.  Upload 4K video, high resolution photos, or music for playback during a game.  mboard is fully customizable, everything from font, color, and layout can be configured.
+    img[src="images/mboard-corner.800x600.png"]
+    h1.mdc-typography--display2 Control mboard from your iPhone or iPad.
+    br
+    a[href="https://itunes.apple.com/us/app/mboard/id1217078560?mt=8"]
+      img[src="/images/appstore.svg"][width="200px"]
+    br
+    br
+    img[src="/images/iphone.score.png"]
+    img[src="/images/iphone.clock.png"]
+    br
+    br
+    br
+    br
+  div.mdc-typography--display1 Includes
+    ul
+      li mboard device
+      li Micro USB charger
+      li 16 GB microSD card
+  div.mdc-typography--display1 Connectivity
+    ul
+      li WiFi 802.11b/g/n
+      li Gigabit Ethernet
+      li Bluetooth 4.1, Bluetooth Low Energy (BLE)
+  div.mdc-typography--display1 Ports
+    ul
+      li HDMI 1.4 port
+      li (4) USB 2.0 Ports
+      li Gigabit Ethernet
+      li Micro USB power connector
+      li Stereo output and composite video port
+  br
+  br
+  br
+  br
+  center
+    div.mdc-typography--display2 Sign up for mboard updates at
+      a[href="http://eepurl.com/dlZ9KH"] mailchimp.
+    br
+    br
+    br
+    br
+  import footer

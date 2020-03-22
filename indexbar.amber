@@ -1,0 +1,13 @@
+header.mdc-layout-grid
+  div.mdc-layout-grid__inner
+    div.mdc-layout-grid__cell--span-4
+      div.mdc-typography--title
+        a[href="/"] madsportslab
+    div.mdc-layout-grid__cell--span-6
+    div.mdc-layout-grid__cell--span-2
+      a[href="mailto:stephen@madsportslab.com"]
+        i.fas.fa-envelope.fa-2x
+      a[href="http://twitter.com/madsportslab"]
+        i.fab.fa-twitter.fa-2x
+      a[href="/about"]
+        i.fas.fa-info-circle.fa-2x

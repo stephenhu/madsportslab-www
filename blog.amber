@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  import indexbar
+  h2.mdc-typography--display3 Blog
+  br
+  br
+  a[href="/blogs-sports-technology"]
+    div.mdc-typography--display1 Sports and Technology
+  div.mdc-typography--caption.teal by Stephen | Feb 24, 2018
+  p This all started as a small project of mine where I found that one of the basketball leagues I participated in was tracking scores using paper and pencil.  While observing several other tournaments and leagues, paper and pencil seemed quite consistent, the scorekeeper would track the basics like points, but not much more.  The process was very cumbersome and this data was difficult to share, so it was then that I decided to create an iPhone app that could easily track statistics and provide this information and analysis in real-time for others to see.
+    a[href="/blogs-sports-technology"] read more...
+  div.empty-block
+  import footer

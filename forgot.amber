@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  import indexbar
+  h2.mdc-typography--display3 Reset Password
+  div.mdc-text-field
+    label.mdc-text-field__label[for="email"] Please enter email address
+    input.mdc-text-field__input[type="text"][id="email"]
+  br
+  button.mdc-button.mdc-js-button Forgot Password
+  div.empty-block
+  import footer

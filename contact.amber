@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  import indexbar
+  h2.mdc-typography--display3 Contact Us
+  h3.mdc-typography--display2 If you're interested in partnering or discussing opportunities with madsportslab, please contact us at
+    a[href="mailto:stephen@madsportslab.com"] stephen@madsportslab.com
+  div.empty-block
+  import footer

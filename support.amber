@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  import indexbar
+  h2.mdc-typography--display3 Support
+  h3.mdc-typography--display2 We'd love to hear from you, send questions or comments to
+    a[href="mailto:stephen@madsportslab.com"] stephen@madsportslab.com
+  div.empty-block
+  import footer

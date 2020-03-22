@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  import indexbar
+  h2.mdc-typography--display3 FAQ
+  h3.mdc-typography--title When will mboard be available?
+  h5.mdc-typography--subheading2 mboard is currently in beta, if you'd like to join our beta program, contact:
+    a[href="mailto:stephen@madsportslab.com"] stephen@madsportslab.com
+  div.empty-block
+  import footer
