@@ -4,8 +4,8 @@ html[lang="en"]
     title madsportslab
     link[rel="stylesheet"][href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css"]
     link[rel="stylesheet"][href="https://unpkg.com/font-awesome@4.7.0/css/font-awesome.min.css"]
-    link[rel="shortcut icon"][href="/images/favicon.ico"]
-    link[rel="stylesheet"][href="/css/madsportslab.css"]
+    link[rel="shortcut icon"][href="/assets/images/favicon.ico"]
+    link[rel="stylesheet"][href="/assets/css/madsportslab.css"]
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

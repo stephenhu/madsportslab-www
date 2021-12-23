@@ -12,7 +12,7 @@ block content
     br
     br
     br
-    img[src="/images/tv.black.644x371.png"]
+    img[src="/assets/images/tv.black.644x371.png"]
     br
     br
     br
@@ -22,11 +22,11 @@ block content
     h1.mdc-typography--display2 Control mboard from your iPhone or iPad.
     br
     a[href="https://itunes.apple.com/us/app/mboard/id1217078560?mt=8"]
-      img[src="/images/appstore.svg"][width="200px"]
+      img[src="/assets/images/appstore.svg"][width="200px"]
     br
     br
-    img[src="/images/iphone.score.png"]
-    img[src="/images/iphone.clock.png"]
+    img[src="/assets/images/iphone.score.png"]
+    img[src="/assets/images/iphone.clock.png"]
     br
     br
     br
